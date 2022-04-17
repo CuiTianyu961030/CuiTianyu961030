@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiTianyu961030&layout=compact&langs_count=10" />
+<a href="https://github.com/CuiTianyu961030?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiTianyu961030&layout=compact&langs_count=10&theme=dracula" />
 </a>
 <!--
 **CuiTianyu961030/CuiTianyu961030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
