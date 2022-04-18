@@ -9,7 +9,9 @@
 
 Hi, I'm [Tianyu Cui](https://cuitianyu.site), a Ph.D. student at the Institute of Information Engineering, Chinese Academy of Sciences. My research interests are artificial intelligence and cyber security. [IPv6](https://en.wikipedia.org/wiki/IPv6) is my research direction.
 
-- 💼 any research question? do reach, [email](mailto:cuitianyu961030@163.com) :)
+- 💼 i have studied [target generation algorithms](https://github.com/CuiTianyu961030/6GAN);
+- 🔭 [address correlation attacks](https://github.com/CuiTianyu961030/SiamHAN) are my current research;
+- 🌱 any research question? do reach, [email](mailto:cuitianyu961030@163.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 <!--
