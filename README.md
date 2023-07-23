@@ -1,5 +1,6 @@
 ### Hey there 👋, welcome to Tianyu's Page
 ![](https://visitor-badge.glitch.me/badge?page_id=CuiTianyu961030)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=CuiTianyu961030.visitor-badge)
 
 <br />
 
