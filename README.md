@@ -7,7 +7,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CuiTianyu961030&layout=compact&langs_count=10&theme=dracula" />
 </a>
 
-Hi, I'm [Tianyu Cui](https://cuitianyu.site), a Ph.D. student at the Institute of Information Engineering, Chinese Academy of Sciences. My research interests are artificial intelligence and cyber security. [IPv6](https://en.wikipedia.org/wiki/IPv6) is my research direction.
+Hi, I'm [Tianyu Cui](https://cuitianyu.site), I am currently an assistant researcher at Zhongguancun Laboratory. I received a Ph.D. from the Institute of Information Engineering, Chinese Academy of Sciences. My research interests are artificial intelligence and cyber security. My research directions include [LLM safety](https://en.wikipedia.org/wiki/AI_safety), [network traffic analysis](https://en.wikipedia.org/wiki/Traffic_analysis), and [IPv6](https://en.wikipedia.org/wiki/IPv6).
 
 - 💼 i have studied [target generation algorithms](https://github.com/CuiTianyu961030/6GAN);
 - 🔭 [address correlation attacks](https://github.com/CuiTianyu961030/SiamHAN) are my current research;
